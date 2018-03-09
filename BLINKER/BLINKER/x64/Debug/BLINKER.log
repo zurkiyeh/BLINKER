@@ -1,5 +1,2 @@
-﻿  BLINKER.cpp
-d:\github\blinker\blinker\blinker\blinker.cpp(77): warning C4305: '=': truncation from 'double' to 'float'
-d:\github\blinker\blinker\blinker\blinker.cpp(81): warning C4305: '=': truncation from 'double' to 'float'
-d:\github\blinker\blinker\blinker\blinker.cpp(85): warning C4305: '=': truncation from 'double' to 'float'
+﻿  main.cpp
   BLINKER.vcxproj -> D:\GitHub\BLINKER\BLINKER\x64\Debug\BLINKER.exe
