@@ -113,13 +113,6 @@ Point2D BlobDetector::detect()
 
 
 
-	//string filename[1] = { "filedata.txt" };
-	//outputFile[i].open(filename[i].c_str());
-	ofstream myfile;
-	myfile.open("filedata.txt");
-	myfile << coordinates.getX() << " " << coordinates.getY() << "\n";
-	myfile.close();
-	cout << coordinates.getX() << " " << coordinates.getY() << "\n";
 
 
 	if (showFrames) {

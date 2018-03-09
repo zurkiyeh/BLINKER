@@ -1,2 +1,7 @@
 ﻿  main.cpp
+  BlobDetector.cpp
+d:\github\blinker\blinker\blinker\blobdetector.cpp(157): warning C4305: '=': truncation from 'double' to 'float'
+d:\github\blinker\blinker\blinker\blobdetector.cpp(161): warning C4305: '=': truncation from 'double' to 'float'
+d:\github\blinker\blinker\blinker\blobdetector.cpp(165): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
   BLINKER.vcxproj -> D:\GitHub\BLINKER\BLINKER\x64\Debug\BLINKER.exe
